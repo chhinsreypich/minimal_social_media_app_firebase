@@ -1,16 +1,30 @@
-# minimal_social_media_app_firebase
+# Minimal Social Media App (Flutter + Firebase)
 
-A new Flutter project.
+This project was developed for learning and practice by following this tutorial:
+
+[Watch the YouTube Tutorial](https://youtu.be/zohXXZBUVYI?si=jjfDUzSuK0c8LW0o)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository.
+2. Install the required Flutter dependencies:
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   flutter pub get
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Configure Firebase for your project using your own Firebase project and configuration files.
+4. Run the application:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   flutter run
+   ```
+
+## Purpose
+
+This project is a learning project intended to practice Flutter mobile app development and Firebase integration.
+
+## Acknowledgment
+
+Thanks to the tutorial creator for providing a learning resource that helped guide this project.
+
